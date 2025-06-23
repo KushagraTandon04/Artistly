@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Atul",
+    "category": "Singer",
+    "location": "Delhi",
+    "priceRange": "₹10,000 - ₹25,000"
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "category": "Dancer",
+    "location": "Agra",
+    "priceRange": "₹10,000 - ₹15,000"
+  }
+]
