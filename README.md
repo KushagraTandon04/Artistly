@@ -15,5 +15,3 @@ https://artistly-chi.vercel.app/
 - 🧠 Data persistence via `localStorage`
 - 🎛️ Dynamic filtering of artists by category
 - 💅 Styled with responsive, modern Tailwind CSS layouts
-
-## 📁 Project Structure
