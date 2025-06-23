@@ -10,8 +10,6 @@ https://artistly-chi.vercel.app/
 
 - 🔎 **Multi-step onboarding** form with validation using `react-hook-form` and `yup`
 - ✅ Supports multiple categories, languages, fee ranges, and location input
-- 📸 Optional profile image upload with live preview
-- 🗃️ **Dashboard view** displaying all submitted artists
-- 🧠 Data persistence via `localStorage`
+- Data persistence via `localStorage`
 - 🎛️ Dynamic filtering of artists by category
 - 💅 Styled with responsive, modern Tailwind CSS layouts
