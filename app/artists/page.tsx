@@ -32,7 +32,7 @@ export default function ArtistListPage() {
             key={category}
             onClick={() => setFilter(category === 'All' ? '' : category)}
             className={`px-4 py-2 rounded border ${
-              filter === category ? 'bg-blue-600 text-white' : 'bg-white'
+              filter === category ? 'bg-blue-600 text-black' : 'bg-white'
             }`}
           >
             {category}
