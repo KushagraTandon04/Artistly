@@ -29,7 +29,7 @@ export default function DashboardPage() {
         <p>No artist submissions yet.</p>
       ) : (
         <table className="w-full border mt-4">
-          <thead className="bg-gray-100">
+          <thead className="bg-black-100">
             <tr>
               <th className="border p-2 text-left">Name</th>
               <th className="border p-2 text-left">Category</th>
